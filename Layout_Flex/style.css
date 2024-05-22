@@ -7,11 +7,12 @@
 .container{
     background-color: darkgray;
     min-height: 100vh;
+    display: flex;
 }
 
 .item{
-    height: 200px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
     border: 2px black solid;
     background-color: white;
     font-size: 20px;
